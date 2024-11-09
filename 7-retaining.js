@@ -5,5 +5,6 @@ function outer(){
 }
 
 let myNewfunc = outer();
+
 console.log(myNewfunc());
 console.log(myNewfunc());

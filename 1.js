@@ -6,3 +6,4 @@ function multiplyBy3(inputnum){
 
 console.log(multiplyBy3(num)); // 9
 console.log(multiplyBy3(5)); // 15
+

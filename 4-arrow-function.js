@@ -16,6 +16,7 @@ function copyArrayAndManipulate(arr,instruction){
     return output;
 }
 
+
 let array = [1,2,3];
 const result = copyArrayAndManipulate(array,multiplyByTwo4);
 console.log(result);
