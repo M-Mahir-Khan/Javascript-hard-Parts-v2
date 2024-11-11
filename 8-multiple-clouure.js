@@ -18,3 +18,5 @@ console.log(anotherFunc()); // 2
 
 console.log(outer()());     // 1
 console.log(outer()());     // 1
+
+
